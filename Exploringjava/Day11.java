@@ -1,3 +1,4 @@
+//arryay of names and ages, display the list of people with their ages,
 public class Day11 {
 
     public static void main(String[] args) {
