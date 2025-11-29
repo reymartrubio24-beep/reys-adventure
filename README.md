@@ -1,5 +1,4 @@
-﻿# reys-adventure
- 
+
 # Rey's Java Adventure 🚀
 
 [![Forks][forks-shield]][forks-url]
@@ -77,4 +76,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Git-url]: https://git-scm.com/
 [GitHub]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com
+
 
